@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sejam Bem vindos(a), Este é o meu sobre:
 Olá Sou Elaine C Silva<br>Brasileira<br>Front-end Developer
 
 
